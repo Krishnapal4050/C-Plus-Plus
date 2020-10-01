@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md40", null ],
-      [ "Features", "index.html#autotoc_md41", null ],
-      [ "Documentation", "index.html#autotoc_md42", null ],
-      [ "Contributions", "index.html#autotoc_md43", null ]
+      [ "Overview", "index.html#autotoc_md46", null ],
+      [ "Features", "index.html#autotoc_md47", null ],
+      [ "Documentation", "index.html#autotoc_md48", null ],
+      [ "Contributions", "index.html#autotoc_md49", null ]
     ] ],
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md4", null ],
@@ -108,12 +108,12 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-".html",
-"d3/d40/graph__coloring_8cpp.html",
-"d5/ddb/bogo__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d8/d95/vector__ops_8hpp.html#a2e7242fd513e4184ad783f5d9658f750",
-"db/d07/spiral__print_8cpp.html",
-"de/d0d/fibonacci__search_8cpp.html#a0bc61b3903d9a53061bf31e5d110fe61"
+"",
+"d3/d26/binary__search__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d5/dbb/class_b_graph.html#a008a393623345f2373b85560538bfa7f",
+"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a4c6eefd1254eab3e8d34bf02c205e0f4",
+"da/df2/durand__kerner__roots_8cpp.html#a024b8bc4755863315456d573a6732377",
+"dd/d91/class_fenwick_tree.html#a2e9ea4fcbe0786487f4535c1cfc7aa00"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
