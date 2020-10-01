@@ -459,7 +459,6 @@ Here is the call graph for this function:</div>
 <dl class="section return"><dt>Returns</dt><dd>size of maximum matching </dd></dl>
 <p>&lt; pair_u[u] stores pair of u in matching on left side of Bipartite Graph.If u doesn't have any pair, then pair_u[u] is NIL</p>
 <p>&lt; pair_v[v] stores pair of v in matching on right side of Biparite Graph.If v doesn't have any pair, then pair_u[v] is NIL</p>
-<p>&lt; dist[u] stores distance of left side vertices</p>
 <p>&lt; Initialize result</p>
 <div class="fragment"><div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;{</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160; </div>
@@ -467,8 +466,8 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="comment"></span> </div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;    <a class="code" href="../../d5/dbb/class_b_graph.html#a71883271239dc53d713d8d321627a345">pair_v</a> = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a>(<a class="code" href="../../d5/dbb/class_b_graph.html#a773403b307dd52cbf410f4823219e8dd">n</a> + 1); <span class="comment">///&lt; pair_v[v] stores pair of v in matching on right side of Biparite Graph.If v doesn&#39;t have any pair, then pair_u[v] is NIL</span></div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="comment"></span> </div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <a class="code" href="../../d5/dbb/class_b_graph.html#aeee18e3c78fabd786c5be7a3d56227d5">dist</a> = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a>(<a class="code" href="../../d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca">m</a> + 1);  <span class="comment">///&lt; dist[u] stores distance of left side vertices</span></div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <a class="code" href="../../d5/dbb/class_b_graph.html#aeee18e3c78fabd786c5be7a3d56227d5">dist</a> = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a>(<a class="code" href="../../d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca">m</a> + 1);  <span class="comment">// dist[u] stores distance of left side vertices</span></div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160; </div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <span class="comment">// Initialize NIL as pair of all vertices</span></div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> u = 0; u &lt;= <a class="code" href="../../d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca">m</a>; u++){</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;        <a class="code" href="../../d5/dbb/class_b_graph.html#acd421f0dfb4929882a4b2028ca26ec4c">pair_u</a>[u] = NIL;</div>
