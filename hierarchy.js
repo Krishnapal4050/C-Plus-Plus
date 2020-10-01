@@ -1,7 +1,6 @@
 var hierarchy =
 [
     [ "machine_learning::adaline", "d6/d30/classmachine__learning_1_1adaline.html", null ],
-    [ "BGraph", "d5/dbb/class_b_graph.html", null ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
     [ "compare", "d1/db3/structcompare.html", null ],
@@ -11,9 +10,9 @@ var hierarchy =
     [ "machine_learning::neural_network::layers::DenseLayer", "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html", null ],
     [ "double_linked_list", "d9/dee/classdouble__linked__list.html", null ],
     [ "Edge", "d7/d77/class_edge.html", null ],
-    [ "double_hashing::Entry", "d9/dde/structdouble__hashing_1_1_entry.html", null ],
-    [ "linear_probing::Entry", "db/d19/structlinear__probing_1_1_entry.html", null ],
     [ "quadratic_probing::Entry", "da/dd1/structquadratic__probing_1_1_entry.html", null ],
+    [ "linear_probing::Entry", "db/d19/structlinear__probing_1_1_entry.html", null ],
+    [ "double_hashing::Entry", "d9/dde/structdouble__hashing_1_1_entry.html", null ],
     [ "FenwickTree", "dd/d91/class_fenwick_tree.html", null ],
     [ "Graph", "da/d9a/class_graph.html", null ],
     [ "graph::is_graph_bipartite::Graph", "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html", null ],

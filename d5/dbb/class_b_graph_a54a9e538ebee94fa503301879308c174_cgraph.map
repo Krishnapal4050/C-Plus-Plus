@@ -1,6 +1,0 @@
-<map id="BGraph::hopcroftKarpAlgorithm" name="BGraph::hopcroftKarpAlgorithm">
-<area shape="rect" id="node1" title="Returns size of maximum matching." alt="" coords="5,31,208,57"/>
-<area shape="rect" id="node2" href="$d5/dbb/class_b_graph.html#ae37a574ccc6b4fae7701e85a86b73a39" title="Returns true if there is an augmenting path" alt="" coords="256,5,348,32"/>
-<area shape="rect" id="node4" href="$d5/dbb/class_b_graph.html#aac34688c68369d9850800587dc57b07e" title="Adds augmenting path if there is one beginning with u" alt="" coords="256,56,348,83"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/end.html#" title=" " alt="" coords="396,31,509,57"/>
-</map>
