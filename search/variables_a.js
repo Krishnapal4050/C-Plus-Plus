@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['m_4424',['m',['../d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca',1,'BGraph']]],
+  ['m_4424',['m',['../df/dee/class_h_k_graph.html#ac5f87b47c85c0251109c90fdb4456c5d',1,'HKGraph']]],
   ['mat_5fsize_4425',['mat_size',['../d7/d35/matrix__exponentiation_8cpp.html#a9977ad12548c4a49dee9dc3f0685aa54',1,'matrix_exponentiation.cpp']]],
   ['max_5fiter_4426',['MAX_ITER',['../d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1',1,'adaline_learning.cpp']]],
   ['max_5fiterations_4427',['MAX_ITERATIONS',['../de/dd3/newton__raphson__method_8cpp.html#a5c5ff05b9f37ae59dad67e1d4f6cd51d',1,'newton_raphson_method.cpp']]],

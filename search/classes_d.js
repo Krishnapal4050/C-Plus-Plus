@@ -7,7 +7,7 @@ var searchData=
   ['nested_5fexception_2428',['nested_exception',['http://en.cppreference.com/w/cpp/error/nested_exception.html',0,'std']]],
   ['neuralnetwork_2429',['NeuralNetwork',['../d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html',1,'machine_learning::neural_network']]],
   ['new_5fhandler_2430',['new_handler',['http://en.cppreference.com/w/cpp/memory/new/new_handler.html',0,'std']]],
-  ['node_2431',['Node',['../d3/d6f/structdata__structure_1_1_node.html',1,'data_structure::Node'],['../db/d8b/struct_node.html',1,'Node'],['../d5/da1/structnode.html',1,'node&lt; Kind &gt;']]],
+  ['node_2431',['node',['../d5/da1/structnode.html',1,'node&lt; Kind &gt;'],['../db/d8b/struct_node.html',1,'Node'],['../d3/d6f/structdata__structure_1_1_node.html',1,'data_structure::Node']]],
   ['node_3c_20type_20_3e_2432',['node&lt; Type &gt;',['../d5/da1/structnode.html',1,'']]],
   ['normal_5fdistribution_2433',['normal_distribution',['http://en.cppreference.com/w/cpp/numeric/random/normal_distribution.html',0,'std']]],
   ['not_5fequal_5fto_2434',['not_equal_to',['http://en.cppreference.com/w/cpp/utility/functional/not_equal_to.html',0,'std']]],
