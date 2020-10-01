@@ -1,10 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"db/d01/brent__method__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,1,3],
-"db/d07/spiral__print_8cpp.html":[8,0,11,13],
-"db/d07/spiral__print_8cpp.html#a850d3f55e1a8d227176cdcc67352c197":[8,0,11,13,2],
-"db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5":[8,0,11,13,0],
-"db/d07/spiral__print_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,13,1],
 "db/d0d/prime__factorization_8cpp.html":[8,0,9,23],
 "db/d0d/prime__factorization_8cpp.html#a0ece0145fb29a5cf48378c23dde2da46":[8,0,9,23,1],
 "db/d0d/prime__factorization_8cpp.html#a7fe38b570a51e448430d6a0f072c2f23":[8,0,9,23,4],
@@ -229,8 +224,8 @@ var NAVTREEINDEX4 =
 "dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,6,2],
 "dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,6,0],
 "dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[8,0,10,6,1],
-"dd/d69/namespacerange__queries.html":[7,0,8],
 "dd/d69/namespacerange__queries.html":[6,0,19],
+"dd/d69/namespacerange__queries.html":[7,0,8],
 "dd/d81/namespacecaesar.html":[6,0,2],
 "dd/d91/class_fenwick_tree.html":[7,0,17],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[7,0,17,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX4 =
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9b0c6400693a5cfff971f768dd5ca5ca":[7,0,4,0,0,2],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9d10768f927baa8a4d4a5ffce295b6b6":[7,0,4,0,0,6],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ad8c10df34357b2cd865c81e0c4f0bd8c":[7,0,4,0,0,1],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[7,0,4,0,0,4]
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[7,0,4,0,0,4],
+"de/d0d/fibonacci__search_8cpp.html":[8,0,14,2],
+"de/d0d/fibonacci__search_8cpp.html#a0bc61b3903d9a53061bf31e5d110fe61":[8,0,14,2,0],
+"de/d0d/fibonacci__search_8cpp.html#a2aa09bef74ee063c1331de0883af4f4f":[8,0,14,2,3],
+"de/d0d/fibonacci__search_8cpp.html#a5e144326104e57a3808aed7eb098db0d":[8,0,14,2,2],
+"de/d0d/fibonacci__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,2,1]
 };
