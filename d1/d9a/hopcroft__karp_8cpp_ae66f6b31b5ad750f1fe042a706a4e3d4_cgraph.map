@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,43,56,69"/>
+<area shape="rect" id="node2" href="$d5/dbb/class_b_graph.html#ae7456a84ceb68f48e3dc0ec7a67dac89" title="To add edge." alt="" coords="235,5,360,32"/>
+<area shape="rect" id="node4" href="$d5/dbb/class_b_graph.html#a54a9e538ebee94fa503301879308c174" title="Returns size of maximum matching." alt="" coords="196,93,399,120"/>
+<area shape="rect" id="node8" href="$d1/d9a/hopcroft__karp_8cpp.html#ae1a3968e7947464bee7714f6d43b7002" title=" " alt="" coords="104,43,148,69"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="447,5,601,32"/>
+<area shape="rect" id="node5" href="$d5/dbb/class_b_graph.html#ae37a574ccc6b4fae7701e85a86b73a39" title="Returns true if there is an augmenting path" alt="" coords="478,68,570,95"/>
+<area shape="rect" id="node7" href="$d5/dbb/class_b_graph.html#aac34688c68369d9850800587dc57b07e" title="Adds augmenting path if there is one beginning with u" alt="" coords="478,119,570,145"/>
+<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/end.html#" title=" " alt="" coords="649,93,763,120"/>
+</map>
