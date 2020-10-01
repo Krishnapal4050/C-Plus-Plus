@@ -267,16 +267,16 @@ const int&#160;</td><td class="memItemRight" valign="bottom"><b>INF</b> {INT_MAX
 
 <p>To add edge. </p>
 <p>function to add edge from u to v</p>
-<p>Function documentation </p><dl class="params"><dt>Parameters</dt><dd>
+<dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">u</td><td>is the position of first vertex </td></tr>
     <tr><td class="paramname">v</td><td>is the position of second vertex </td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;{</div>
-<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;    <a class="code" href="../../d5/dbb/class_b_graph.html#a39cd668ce744946dfa906d66adc057e5">adj</a>[u].<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/push_back.html">push_back</a>(v); <span class="comment">// Add v to u’s list.</span></div>
-<div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;}</div>
+<div class="fragment"><div class="line"><a name="l00240"></a><span class="lineno">  240</span>&#160;{</div>
+<div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;    <a class="code" href="../../d5/dbb/class_b_graph.html#a39cd668ce744946dfa906d66adc057e5">adj</a>[u].<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/push_back.html">push_back</a>(v); <span class="comment">// Add v to u’s list.</span></div>
+<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;}</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -307,7 +307,6 @@ Here is the call graph for this function:</div>
 <dl class="section return"><dt>Returns</dt><dd><code>true</code> if there is an augmenting path available </dd>
 <dd>
 <code>false</code> if there is no augmenting path available </dd></dl>
-<p>&lt; an integer queue for bfs</p>
 <p>&lt; u is not matched so distance is 0</p>
 <p>&lt; set distance as infinite so that this vertex is considered next time for availibility</p>
 <p>&lt; Initialize distance to NIL as infinite</p>
@@ -315,8 +314,8 @@ Here is the call graph for this function:</div>
 <p>&lt; Consider the pair and push it to queue</p>
 <p>&lt; If we could come back to NIL using alternating path of distinct vertices then there is an augmenting path available</p>
 <div class="fragment"><div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;{</div>
-<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/queue.html">std::queue&lt;int&gt;</a> q; <span class="comment">///&lt; an integer queue for bfs</span></div>
-<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/queue.html">std::queue&lt;int&gt;</a> q; <span class="comment">// an integer queue for bfs</span></div>
+<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160; </div>
 <div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;    <span class="comment">// First layer of vertices (set distance as 0)</span></div>
 <div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> u = 1; u &lt;= <a class="code" href="../../d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca">m</a>; u++)</div>
 <div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;    {</div>
