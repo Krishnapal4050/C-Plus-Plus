@@ -1,10 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"d3/d26/binary__search__tree_8cpp.html#aebb1a5194a2cd7efe7ee7fc417e78293":[8,0,2,2,12],
-"d3/d40/graph__coloring_8cpp.html":[8,0,0,0],
-"d3/d40/graph__coloring_8cpp.html#a29360ddb1bad75caa61ec895b6e71986":[8,0,0,0,0],
-"d3/d40/graph__coloring_8cpp.html#a5a6c3c2b065ea1c07adf2f638f8efc43":[8,0,0,0,1],
-"d3/d40/graph__coloring_8cpp.html#a8cfb2d08840766ac4402196079308a36":[8,0,0,0,3],
 "d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,0,2],
 "d3/d4c/quick__sort__3_8cpp.html":[8,0,15,9],
 "d3/d4c/quick__sort__3_8cpp.html#a07e5c62de28aeddea986890ce7ac1bda":[8,0,15,9,4],
@@ -112,8 +107,8 @@ var NAVTREEINDEX1 =
 "d4/db4/struct_segment_intersection.html#a008941b2272866c64cdaf959afa939bf":[7,0,34,2],
 "d4/db4/struct_segment_intersection.html#a3beb2ac1b35d67354f1dbaf9a971e655":[7,0,34,0],
 "d4/db4/struct_segment_intersection.html#aefd077282f45bd16799b53f8aa430ffd":[7,0,34,1],
-"d4/dd2/namespacequadratic__probing.html":[7,0,7],
 "d4/dd2/namespacequadratic__probing.html":[6,0,18],
+"d4/dd2/namespacequadratic__probing.html":[7,0,7],
 "d4/dd9/structtrie.html":[7,0,39],
 "d4/dd9/structtrie.html#a6ed95bf46944aeb935f82707d2996dd8":[7,0,39,1],
 "d4/dd9/structtrie.html#ab0321a054f9b62d68fce08882d7e5b03":[7,0,39,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX1 =
 "d5/db0/adaline__learning_8cpp.html#a52053d88ea1bcbbed9aca67ab4eeb499":[8,0,8,0,2],
 "d5/db0/adaline__learning_8cpp.html#a992bdf1fdb0b9d414bcf7981d2d87aa9":[8,0,8,0,4],
 "d5/ddb/bogo__sort_8cpp.html":[8,0,15,0],
-"d5/ddb/bogo__sort_8cpp.html#a4c5bd73ffb6082f63dc57d8dcc76794f":[8,0,15,0,1]
+"d5/ddb/bogo__sort_8cpp.html#a4c5bd73ffb6082f63dc57d8dcc76794f":[8,0,15,0,1],
+"d5/ddb/bogo__sort_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,15,0,4],
+"d5/ddb/bogo__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,0,0],
+"d5/ddb/bogo__sort_8cpp.html#ae8adaeff66471f9ed84f2e673b38a859":[8,0,15,0,2],
+"d5/ddb/bogo__sort_8cpp.html#aedfb88e2d6fff1871f038221fe5870fe":[8,0,15,0,3],
+"d5/def/stairs__pattern_8cpp.html":[8,0,11,14]
 };
