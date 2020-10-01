@@ -1,5 +1,10 @@
 var NAVTREEINDEX2 =
 {
+"d5/dbb/class_b_graph.html#a008a393623345f2373b85560538bfa7f":[7,0,10,11],
+"d5/dbb/class_b_graph.html#a05ada994c87ec495fa88f69656459a68":[7,0,10,1],
+"d5/dbb/class_b_graph.html#a39cd668ce744946dfa906d66adc057e5":[7,0,10,6],
+"d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca":[7,0,10,9],
+"d5/dbb/class_b_graph.html#a517acd1445a5f212710d868eabb2eb1e":[7,0,10,8],
 "d5/dbb/class_b_graph.html#a54a9e538ebee94fa503301879308c174":[7,0,10,5],
 "d5/dbb/class_b_graph.html#a71883271239dc53d713d8d321627a345":[7,0,10,13],
 "d5/dbb/class_b_graph.html#a773403b307dd52cbf410f4823219e8dd":[7,0,10,10],
@@ -76,8 +81,8 @@ var NAVTREEINDEX2 =
 "d6/d60/group__ode.html#ga36ff0710861ca39d957046c0b09b2985":[5,2,2],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[8,0,10,11,4],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[5,2,4],
-"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[8,0,10,11,5],
 "d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[5,2,5],
+"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[8,0,10,11,5],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[8,0,10,10,3],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[5,2,3],
 "d6/d60/group__ode.html#gae0509f8843e2bc42de2abbd00a14b7b9":[8,0,10,9,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX2 =
 "d8/d13/bubble__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,1,0],
 "d8/d38/queue_8h_source.html":[8,0,2,7],
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html":[8,0,9,20],
-"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a09660096b134753128952246f4f4e4bd":[8,0,9,20,1],
-"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a4c6eefd1254eab3e8d34bf02c205e0f4":[8,0,9,20,0],
-"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,20,2],
-"d8/d6c/line__segment__intersection_8cpp.html":[8,0,4,1],
-"d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,4,1,2],
-"d8/d77/namespacemachine__learning.html":[6,0,14]
+"d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#a09660096b134753128952246f4f4e4bd":[8,0,9,20,1]
 };
