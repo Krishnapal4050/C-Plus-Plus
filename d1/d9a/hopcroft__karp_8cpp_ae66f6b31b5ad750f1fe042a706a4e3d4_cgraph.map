@@ -1,9 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title="Main function." alt="" coords="5,35,56,61"/>
-<area shape="rect" id="node2" href="$d4/d2f/classgraph_1_1_b_graph.html#aea9e8392ba65c056042ad39f1cd4de6a" title="To add edge." alt="" coords="115,5,281,32"/>
-<area shape="rect" id="node4" href="$d4/d2f/classgraph_1_1_b_graph.html#a7658d893fc6a1ff6f657389d94bd6d75" title="Returns size of maximum matching." alt="" coords="104,57,292,98"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="340,5,495,32"/>
-<area shape="rect" id="node5" href="$d4/d2f/classgraph_1_1_b_graph.html#a016cf73e763b61508b87e8fce0f8c8bb" title="Returns true if there is an augmenting path" alt="" coords="351,60,483,87"/>
-<area shape="rect" id="node7" href="$d4/d2f/classgraph_1_1_b_graph.html#a398864f750b197e9f4b030d97470445e" title="Adds augmenting path if there is one beginning with u" alt="" coords="351,111,483,137"/>
-<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/end.html#" title=" " alt="" coords="543,85,656,112"/>
-</map>
