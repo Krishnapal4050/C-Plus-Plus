@@ -1,10 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"d3/d26/binary__search__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,2,8],
-"d3/d26/binary__search__tree_8cpp.html#aebb1a5194a2cd7efe7ee7fc417e78293":[8,0,2,2,12],
-"d3/d40/graph__coloring_8cpp.html":[8,0,0,0],
-"d3/d40/graph__coloring_8cpp.html#a29360ddb1bad75caa61ec895b6e71986":[8,0,0,0,0],
-"d3/d40/graph__coloring_8cpp.html#a5a6c3c2b065ea1c07adf2f638f8efc43":[8,0,0,0,1],
 "d3/d40/graph__coloring_8cpp.html#a8cfb2d08840766ac4402196079308a36":[8,0,0,0,3],
 "d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,0,2],
 "d3/d4c/quick__sort__3_8cpp.html":[8,0,15,9],
@@ -182,10 +177,10 @@ var NAVTREEINDEX1 =
 "d5/d2c/namespacelayers.html":[6,0,12],
 "d5/d39/namespaceactivations.html":[6,0,0],
 "d5/d4c/group__sorting.html":[5,3],
-"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[8,0,15,6,3],
 "d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[5,3,5],
-"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[5,3,1],
+"d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[8,0,15,6,3],
 "d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[8,0,15,4,1],
+"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[5,3,1],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[8,0,15,6,1],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[5,3,3],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[8,0,15,6,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX1 =
 "d5/db0/adaline__learning_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,8,0,1],
 "d5/db0/adaline__learning_8cpp.html#a52053d88ea1bcbbed9aca67ab4eeb499":[8,0,8,0,2],
 "d5/db0/adaline__learning_8cpp.html#a992bdf1fdb0b9d414bcf7981d2d87aa9":[8,0,8,0,4],
-"d5/dbb/class_b_graph.html":[7,0,10]
+"d5/dbb/class_b_graph.html":[7,0,10],
+"d5/dbb/class_b_graph.html#a008a393623345f2373b85560538bfa7f":[7,0,10,11],
+"d5/dbb/class_b_graph.html#a05ada994c87ec495fa88f69656459a68":[7,0,10,1],
+"d5/dbb/class_b_graph.html#a39cd668ce744946dfa906d66adc057e5":[7,0,10,6],
+"d5/dbb/class_b_graph.html#a478993fd33c4b6c2c08042216db493ca":[7,0,10,9],
+"d5/dbb/class_b_graph.html#a517acd1445a5f212710d868eabb2eb1e":[7,0,10,8]
 };
