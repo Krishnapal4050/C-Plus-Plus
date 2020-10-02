@@ -1,9 +1,9 @@
 <map id="test" name="test">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,49,57"/>
-<area shape="rect" id="node2" href="$df/dee/class_h_k_graph.html#ac3f8b0870b8938a439a8875a269b45dc" title="To add edge." alt="" coords="137,5,271,32"/>
-<area shape="rect" id="node4" href="$df/dee/class_h_k_graph.html#aedfa20e6063e723095a455ab9650b457" title="Returns size of maximum matching." alt="" coords="97,56,311,83"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="359,5,513,32"/>
-<area shape="rect" id="node5" href="$df/dee/class_h_k_graph.html#a560916a42b85196acc25ae5a34c46f53" title="Returns true if there is an augmenting path" alt="" coords="385,56,487,83"/>
-<area shape="rect" id="node7" href="$df/dee/class_h_k_graph.html#aa705c66b42038dbdcdf589fe5c4f720d" title="Adds augmenting path if there is one beginning with u" alt="" coords="385,107,487,133"/>
-<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/end.html#" title=" " alt="" coords="561,81,675,108"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,49,61"/>
+<area shape="rect" id="node2" href="$d8/d69/classgraph_1_1_h_k_graph.html#a3b49011c09cf90a116ab53bef61cd95a" title="To add edge." alt="" coords="97,5,272,32"/>
+<area shape="rect" id="node4" href="$d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d" title="Returns size of maximum matching." alt="" coords="99,57,270,98"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="320,5,475,32"/>
+<area shape="rect" id="node5" href="$d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93" title="Returns true if there is an augmenting path" alt="" coords="326,60,469,87"/>
+<area shape="rect" id="node7" href="$d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0" title="Adds augmenting path if there is one beginning with u" alt="" coords="326,111,469,137"/>
+<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/end.html#" title=" " alt="" coords="523,85,636,112"/>
 </map>

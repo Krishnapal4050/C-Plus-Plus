@@ -1,6 +1,0 @@
-<map id="HKGraph::hopcroftKarpAlgorithm" name="HKGraph::hopcroftKarpAlgorithm">
-<area shape="rect" id="node1" title="Returns size of maximum matching." alt="" coords="5,31,219,57"/>
-<area shape="rect" id="node2" href="$df/dee/class_h_k_graph.html#a560916a42b85196acc25ae5a34c46f53" title="Returns true if there is an augmenting path" alt="" coords="267,5,369,32"/>
-<area shape="rect" id="node4" href="$df/dee/class_h_k_graph.html#aa705c66b42038dbdcdf589fe5c4f720d" title="Adds augmenting path if there is one beginning with u" alt="" coords="267,56,369,83"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/end.html#" title=" " alt="" coords="417,31,531,57"/>
-</map>

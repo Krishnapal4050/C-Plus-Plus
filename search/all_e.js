@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_1113',['n',['../df/dee/class_h_k_graph.html#a51db54e2114907fac83150541080fbf6',1,'HKGraph::n()'],['http://en.cppreference.com/w/cpp/numeric/random/student_t_distribution/n.html',0,'std::student_t_distribution::n()'],['http://en.cppreference.com/w/cpp/numeric/random/chi_squared_distribution/n.html',0,'std::chi_squared_distribution::n()'],['http://en.cppreference.com/w/cpp/numeric/random/fisher_f_distribution/params.html',0,'std::fisher_f_distribution::n()']]],
+  ['n_1113',['n',['../d8/d69/classgraph_1_1_h_k_graph.html#a6f5a9fdbb83ef731d739ba6707e21c3c',1,'graph::HKGraph::n()'],['http://en.cppreference.com/w/cpp/numeric/random/student_t_distribution/n.html',0,'std::student_t_distribution::n()'],['http://en.cppreference.com/w/cpp/numeric/random/chi_squared_distribution/n.html',0,'std::chi_squared_distribution::n()'],['http://en.cppreference.com/w/cpp/numeric/random/fisher_f_distribution/params.html',0,'std::fisher_f_distribution::n()']]],
   ['n_5fqueens_1114',['n_queens',['../d3/da1/namespacen__queens.html',1,'']]],
   ['n_5fqueens_2ecpp_1115',['n_queens.cpp',['../d4/d3e/n__queens_8cpp.html',1,'']]],
   ['name_1116',['name',['http://en.cppreference.com/w/cpp/locale/locale/name.html',0,'std::locale::name()'],['http://en.cppreference.com/w/cpp/error/error_category/name.html',0,'std::error_category::name()'],['http://en.cppreference.com/w/cpp/types/type_info/name.html',0,'std::type_info::name()'],['http://en.cppreference.com/w/cpp/types/type_index/name.html',0,'std::type_index::name()']]],

@@ -44,7 +44,7 @@ var searchData=
   ['begin_28int_29_153',['begin(int)',['http://en.cppreference.com/w/cpp/container/unordered_map/begin2.html',0,'std::unordered_map::begin(int)()'],['http://en.cppreference.com/w/cpp/container/unordered_multimap/begin2.html',0,'std::unordered_multimap::begin(int)()'],['http://en.cppreference.com/w/cpp/container/unordered_multiset/begin2.html',0,'std::unordered_multiset::begin(int)()'],['http://en.cppreference.com/w/cpp/container/unordered_set/begin2.html',0,'std::unordered_set::begin(int)()']]],
   ['bernoulli_5fdistribution_154',['bernoulli_distribution',['http://en.cppreference.com/w/cpp/numeric/random/bernoulli_distribution.html',0,'std::bernoulli_distribution'],['http://en.cppreference.com/w/cpp/numeric/random/bernoulli_distribution/bernoulli_distribution.html',0,'std::bernoulli_distribution::bernoulli_distribution()']]],
   ['beta_155',['beta',['http://en.cppreference.com/w/cpp/numeric/random/gamma_distribution/params.html',0,'std::gamma_distribution']]],
-  ['bfs_156',['bfs',['../df/dee/class_h_k_graph.html#a560916a42b85196acc25ae5a34c46f53',1,'HKGraph']]],
+  ['bfs_156',['bfs',['../d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93',1,'graph::HKGraph']]],
   ['bidirectional_5fiterator_5ftag_157',['bidirectional_iterator_tag',['http://en.cppreference.com/w/cpp/iterator/iterator_tags.html',0,'std']]],
   ['binary_5fexponent_2ecpp_158',['binary_exponent.cpp',['../de/dcf/binary__exponent_8cpp.html',1,'']]],
   ['binary_5ffunction_159',['binary_function',['http://en.cppreference.com/w/cpp/utility/functional/binary_function.html',0,'std']]],

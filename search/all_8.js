@@ -36,10 +36,10 @@ var searchData=
   ['high_5fresolution_5fclock_709',['high_resolution_clock',['http://en.cppreference.com/w/cpp/chrono/high_resolution_clock.html',0,'std::chrono']]],
   ['hill_5fcipher_2ecpp_710',['hill_cipher.cpp',['../d7/db9/hill__cipher_8cpp.html',1,'']]],
   ['hillcipher_711',['HillCipher',['../d6/d26/classciphers_1_1_hill_cipher.html',1,'ciphers']]],
-  ['hkgraph_712',['HKGraph',['../df/dee/class_h_k_graph.html',1,'HKGraph'],['../df/dee/class_h_k_graph.html#aa7801fd7e52b394847100c7c60c539cd',1,'HKGraph::HKGraph()'],['../df/dee/class_h_k_graph.html#aef910e2b2c858fd2cf941f131bf2b3d5',1,'HKGraph::HKGraph(int m, int n)']]],
+  ['hkgraph_712',['HKGraph',['../d8/d69/classgraph_1_1_h_k_graph.html',1,'graph::HKGraph'],['../d8/d69/classgraph_1_1_h_k_graph.html#af02b0c83911070ac6d95fc9905e58aa9',1,'graph::HKGraph::HKGraph()'],['../d8/d69/classgraph_1_1_h_k_graph.html#a0da5aa674d3b3e54a38251ee60d7cd64',1,'graph::HKGraph::HKGraph(int m, int n)']]],
   ['hld_713',['HLD',['../d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html',1,'range_queries::heavy_light_decomposition::HLD&lt; X &gt;'],['../d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a6e486767434e44076c1ac374a22da726',1,'range_queries::heavy_light_decomposition::HLD::HLD()']]],
   ['hopcroft_5fkarp_2ecpp_714',['hopcroft_karp.cpp',['../d1/d9a/hopcroft__karp_8cpp.html',1,'']]],
-  ['hopcroftkarpalgorithm_715',['hopcroftKarpAlgorithm',['../df/dee/class_h_k_graph.html#aedfa20e6063e723095a455ab9650b457',1,'HKGraph']]],
+  ['hopcroftkarpalgorithm_715',['hopcroftKarpAlgorithm',['../d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d',1,'graph::HKGraph']]],
   ['hours_716',['hours',['http://en.cppreference.com/w/cpp/chrono/duration.html',0,'std::chrono::hours'],['http://en.cppreference.com/w/cpp/chrono/duration/duration.html',0,'std::chrono::hours::hours()']]],
   ['hypot_717',['hypot',['http://en.cppreference.com/w/cpp/numeric/math/hypot.html',0,'std']]]
 ];

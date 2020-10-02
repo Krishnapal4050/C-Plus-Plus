@@ -16,9 +16,9 @@ var searchData=
   ['height_3384',['height',['../d8/dee/avltree_8cpp.html#ae4a66d8b0c2b0d626aea45977e358c83',1,'avltree.cpp']]],
   ['hex_3385',['hex',['http://en.cppreference.com/w/cpp/io/manip/hex.html',0,'std']]],
   ['hexfloat_3386',['hexfloat',['http://en.cppreference.com/w/cpp/io/manip/fixed.html',0,'std']]],
-  ['hkgraph_3387',['HKGraph',['../df/dee/class_h_k_graph.html#aa7801fd7e52b394847100c7c60c539cd',1,'HKGraph::HKGraph()'],['../df/dee/class_h_k_graph.html#aef910e2b2c858fd2cf941f131bf2b3d5',1,'HKGraph::HKGraph(int m, int n)']]],
+  ['hkgraph_3387',['HKGraph',['../d8/d69/classgraph_1_1_h_k_graph.html#af02b0c83911070ac6d95fc9905e58aa9',1,'graph::HKGraph::HKGraph()'],['../d8/d69/classgraph_1_1_h_k_graph.html#a0da5aa674d3b3e54a38251ee60d7cd64',1,'graph::HKGraph::HKGraph(int m, int n)']]],
   ['hld_3388',['HLD',['../d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a6e486767434e44076c1ac374a22da726',1,'range_queries::heavy_light_decomposition::HLD']]],
-  ['hopcroftkarpalgorithm_3389',['hopcroftKarpAlgorithm',['../df/dee/class_h_k_graph.html#aedfa20e6063e723095a455ab9650b457',1,'HKGraph']]],
+  ['hopcroftkarpalgorithm_3389',['hopcroftKarpAlgorithm',['../d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d',1,'graph::HKGraph']]],
   ['hours_3390',['hours',['http://en.cppreference.com/w/cpp/chrono/duration/duration.html',0,'std::chrono::hours']]],
   ['hypot_3391',['hypot',['http://en.cppreference.com/w/cpp/numeric/math/hypot.html',0,'std']]]
 ];

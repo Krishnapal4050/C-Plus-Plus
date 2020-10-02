@@ -21,7 +21,7 @@ var hierarchy =
     [ "graph::is_graph_bipartite::Graph", "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html", null ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", null ],
     [ "ciphers::HillCipher", "d6/d26/classciphers_1_1_hill_cipher.html", null ],
-    [ "HKGraph", "df/dee/class_h_k_graph.html", null ],
+    [ "graph::HKGraph", "d8/d69/classgraph_1_1_h_k_graph.html", null ],
     [ "Item", "db/d66/struct_item.html", null ],
     [ "large_number", "db/d82/classlarge__number.html", null ],
     [ "linkedlist", "d0/dff/structlinkedlist.html", null ],

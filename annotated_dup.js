@@ -20,7 +20,6 @@ var annotated_dup =
     [ "FenwickTree", "dd/d91/class_fenwick_tree.html", "dd/d91/class_fenwick_tree" ],
     [ "Graph", "da/d9a/class_graph.html", "da/d9a/class_graph" ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", "dd/d1c/classhash__chain" ],
-    [ "HKGraph", "df/dee/class_h_k_graph.html", "df/dee/class_h_k_graph" ],
     [ "Item", "db/d66/struct_item.html", "db/d66/struct_item" ],
     [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ],
     [ "linkedlist", "d0/dff/structlinkedlist.html", "d0/dff/structlinkedlist" ],
