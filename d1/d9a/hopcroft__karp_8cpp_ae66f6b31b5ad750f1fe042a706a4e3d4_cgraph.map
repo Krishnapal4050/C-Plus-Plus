@@ -1,6 +1,6 @@
 <map id="main" name="main">
 <area shape="rect" id="node1" title="Main function." alt="" coords="5,45,56,72"/>
-<area shape="rect" id="node2" href="$d8/d69/classgraph_1_1_h_k_graph.html#a3b49011c09cf90a116ab53bef61cd95a" title="To add edge." alt="" coords="196,5,371,32"/>
+<area shape="rect" id="node2" href="$d8/d69/classgraph_1_1_h_k_graph.html#a3b49011c09cf90a116ab53bef61cd95a" title="function to add edge from u to v" alt="" coords="196,5,371,32"/>
 <area shape="rect" id="node4" href="$d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d" title="Returns size of maximum matching." alt="" coords="198,67,369,109"/>
 <area shape="rect" id="node8" href="$d1/d9a/hopcroft__karp_8cpp.html#ae1a3968e7947464bee7714f6d43b7002" title=" " alt="" coords="104,45,148,72"/>
 <area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="419,5,573,32"/>

@@ -1,6 +1,6 @@
 <map id="test" name="test">
 <area shape="rect" id="node1" title=" " alt="" coords="5,35,49,61"/>
-<area shape="rect" id="node2" href="$d8/d69/classgraph_1_1_h_k_graph.html#a3b49011c09cf90a116ab53bef61cd95a" title="To add edge." alt="" coords="97,5,272,32"/>
+<area shape="rect" id="node2" href="$d8/d69/classgraph_1_1_h_k_graph.html#a3b49011c09cf90a116ab53bef61cd95a" title="function to add edge from u to v" alt="" coords="97,5,272,32"/>
 <area shape="rect" id="node4" href="$d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d" title="Returns size of maximum matching." alt="" coords="99,57,270,98"/>
 <area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="320,5,475,32"/>
 <area shape="rect" id="node5" href="$d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93" title="Returns true if there is an augmenting path" alt="" coords="326,60,469,87"/>
