@@ -454,7 +454,6 @@ Here is the call graph for this function:</div>
 <p>Returns size of maximum matching. </p>
 <p>This function counts the number of augmenting paths between left and right sides of the Bipartite graph.</p>
 <dl class="section return"><dt>Returns</dt><dd>size of maximum matching </dd></dl>
-<p>&lt; Initialize result</p>
 <div class="fragment"><div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;{</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160; </div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="comment">// pair_u[u] stores pair of u in matching on left side of Bipartite Graph.</span></div>
@@ -467,8 +466,8 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160; </div>
 <div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    <a class="code" href="../../d8/d69/classgraph_1_1_h_k_graph.html#a6a0228bbba3818447fcf6b56128b552a">dist</a> = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector&lt;int&gt;</a>(<a class="code" href="../../d8/d69/classgraph_1_1_h_k_graph.html#a3d9101e3b4598159005fd028b9b0ff74">m</a> + 1);  <span class="comment">// dist[u] stores distance of left side vertices</span></div>
 <div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160; </div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;    <span class="keywordtype">int</span> result = 0;  <span class="comment">///&lt; Initialize result</span></div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;<span class="comment"></span> </div>
+<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;    <span class="keywordtype">int</span> result = 0;  <span class="comment">// Initialize result</span></div>
+<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160; </div>
 <div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    <span class="comment">// Keep updating the result while there is an augmenting path possible.</span></div>
 <div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;    <span class="keywordflow">while</span> (<a class="code" href="../../d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93">bfs</a>())</div>
 <div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;    {</div>
