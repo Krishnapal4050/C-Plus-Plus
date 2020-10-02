@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Returns size of maximum matching.">
+<g id="a_node1"><a xlink:title="This function counts the number of augmenting paths between left and right sides of the Bipartite gra...">
 <polygon fill="#bfbfbf" stroke="black" points="0,-14 0,-44 128,-44 128,-14 0,-14"/>
 <text text-anchor="start" x="8" y="-32" font-family="Helvetica,sans-Serif" font-size="10.00">graph::HKGraph::hopcroft</text>
 <text text-anchor="middle" x="64" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00">KarpAlgorithm</text>
@@ -22,7 +22,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93" target="_top" xlink:title="Returns true if there is an augmenting path">
+<g id="a_node2"><a xlink:href="../../d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93" target="_top" xlink:title="This function checks for the possibility of augmented path availability.">
 <polygon fill="white" stroke="black" points="164,-38.5 164,-57.5 271,-57.5 271,-38.5 164,-38.5"/>
 <text text-anchor="middle" x="217.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">graph::HKGraph::bfs</text>
 </a>
@@ -37,7 +37,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0" target="_top" xlink:title="Adds augmenting path if there is one beginning with u">
+<g id="a_node4"><a xlink:href="../../d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0" target="_top" xlink:title="This functions checks whether an augmenting path is available exists beginning with free vertex u.">
 <polygon fill="white" stroke="black" points="164,-0.5 164,-19.5 271,-19.5 271,-0.5 164,-0.5"/>
 <text text-anchor="middle" x="217.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">graph::HKGraph::dfs</text>
 </a>
