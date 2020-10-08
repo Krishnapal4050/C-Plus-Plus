@@ -1,10 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93":[7,0,4,2,3],
-"d8/d69/classgraph_1_1_h_k_graph.html#a86ebff8a70cbfedd05281993d5d1987b":[7,0,4,2,12],
-"d8/d69/classgraph_1_1_h_k_graph.html#a976ee239402cc2726a280e781c706d77":[7,0,4,2,13],
-"d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d":[7,0,4,2,5],
-"d8/d69/classgraph_1_1_h_k_graph.html#ae6d069bd16d6eafa6e08c7e5f735eda6":[7,0,4,2,11],
 "d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0":[7,0,4,2,4],
 "d8/d69/classgraph_1_1_h_k_graph.html#af02b0c83911070ac6d95fc9905e58aa9":[7,0,4,2,0],
 "d8/d6c/line__segment__intersection_8cpp.html":[8,0,4,1],
@@ -51,9 +46,6 @@ var NAVTREEINDEX3 =
 "d8/dab/classstatistics_1_1stats__computer2.html#ade6de704deea24fdc88077b3d9a0d534":[7,0,9,1,1],
 "d8/dab/classstatistics_1_1stats__computer2.html#ae1bfd81bd7bbbd4b0d51d7d956e532d2":[7,0,9,1,8],
 "d8/dab/classstatistics_1_1stats__computer2.html#af6198817084276113b3c064e87ce0555":[7,0,9,1,3],
-"d8/db9/sorting_2recursive__bubble__sort_8cpp.html":[8,0,15,10],
-"d8/db9/sorting_2recursive__bubble__sort_8cpp.html#a87f6e032dbfd4f7de25780bc43e00a1d":[8,0,15,10,1],
-"d8/db9/sorting_2recursive__bubble__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,10,0],
 "d8/dc8/struct_point.html":[7,0,29],
 "d8/dc8/struct_point.html#a2e1b5fb2b2a83571f5c0bc0f66a73cf7":[7,0,29,3],
 "d8/dc8/struct_point.html#a8c779e11e694b20e0946105a9f5de842":[7,0,29,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX3 =
 "da/d9a/class_graph.html#af1abf6ea5346e12dea4df46262ff35aa":[7,0,18,40],
 "da/d9a/class_graph.html#af3ff6b295df8bf3bee0bafd7c7d56915":[7,0,18,1],
 "da/d9a/class_graph.html#af765dda8f21280e1cecea19e129f1bc5":[7,0,18,11],
-"da/d9a/palindrome__of__number_8cpp.html":[8,0,11,7]
+"da/d9a/palindrome__of__number_8cpp.html":[8,0,11,7],
+"da/d9a/palindrome__of__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,7,0],
+"da/dd1/structquadratic__probing_1_1_entry.html":[7,0,7,0],
+"da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[7,0,7,0,1],
+"da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[7,0,7,0,0],
+"da/dd3/namespacespirograph.html":[6,0,22],
+"da/de7/decimal__to__hexadecimal_8cpp.html":[8,0,11,2],
+"da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[8,0,11,2,0],
+"da/df2/durand__kerner__roots_8cpp.html":[8,0,10,2]
 };

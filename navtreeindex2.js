@@ -1,10 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/db0/adaline__learning_8cpp.html#a379f7488a305f2571f2932b319931f82":[8,0,8,0,3],
-"d5/db0/adaline__learning_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,8,0,1],
-"d5/db0/adaline__learning_8cpp.html#a52053d88ea1bcbbed9aca67ab4eeb499":[8,0,8,0,2],
-"d5/db0/adaline__learning_8cpp.html#a992bdf1fdb0b9d414bcf7981d2d87aa9":[8,0,8,0,4],
-"d5/ddb/bogo__sort_8cpp.html":[8,0,15,0],
 "d5/ddb/bogo__sort_8cpp.html#a4c5bd73ffb6082f63dc57d8dcc76794f":[8,0,15,0,1],
 "d5/ddb/bogo__sort_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,15,0,4],
 "d5/ddb/bogo__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,0,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX2 =
 "d8/d69/classgraph_1_1_h_k_graph.html#a3d9101e3b4598159005fd028b9b0ff74":[7,0,4,2,9],
 "d8/d69/classgraph_1_1_h_k_graph.html#a44742cb9cfecd1a4493970af9b8bbb15":[7,0,4,2,8],
 "d8/d69/classgraph_1_1_h_k_graph.html#a6a0228bbba3818447fcf6b56128b552a":[7,0,4,2,7],
-"d8/d69/classgraph_1_1_h_k_graph.html#a6f5a9fdbb83ef731d739ba6707e21c3c":[7,0,4,2,10]
+"d8/d69/classgraph_1_1_h_k_graph.html#a6f5a9fdbb83ef731d739ba6707e21c3c":[7,0,4,2,10],
+"d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93":[7,0,4,2,3],
+"d8/d69/classgraph_1_1_h_k_graph.html#a86ebff8a70cbfedd05281993d5d1987b":[7,0,4,2,12],
+"d8/d69/classgraph_1_1_h_k_graph.html#a976ee239402cc2726a280e781c706d77":[7,0,4,2,13],
+"d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d":[7,0,4,2,5],
+"d8/d69/classgraph_1_1_h_k_graph.html#ae6d069bd16d6eafa6e08c7e5f735eda6":[7,0,4,2,11]
 };

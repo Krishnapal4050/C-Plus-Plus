@@ -41,7 +41,7 @@ var searchData=
   ['realtime_5fstats_2ecpp_1410',['realtime_stats.cpp',['../d0/d08/realtime__stats_8cpp.html',1,'']]],
   ['rec_5fternary_5fsearch_1411',['rec_ternary_search',['../dc/dfe/ternary__search_8cpp.html#a93d0099db95022f1eb90ddfd68f73ead',1,'ternary_search.cpp']]],
   ['recalculate_5fhash_1412',['recalculate_hash',['../d9/d03/namespacestring__search.html#aed769d565b705a9b3e0eb1ec74088893',1,'string_search']]],
-  ['recursive_5fbubble_5fsort_2ecpp_1413',['recursive_bubble_sort.cpp',['../d3/df9/recursive__bubble__sort_8cpp.html',1,'(Global Namespace)'],['../d8/db9/sorting_2recursive__bubble__sort_8cpp.html',1,'(Global Namespace)']]],
+  ['recursive_5fbubble_5fsort_2ecpp_1413',['recursive_bubble_sort.cpp',['../d3/df9/recursive__bubble__sort_8cpp.html',1,'']]],
   ['recursive_5fmutex_1414',['recursive_mutex',['http://en.cppreference.com/w/cpp/thread/recursive_mutex.html',0,'std::recursive_mutex'],['http://en.cppreference.com/w/cpp/thread/recursive_mutex/recursive_mutex.html',0,'std::recursive_mutex::recursive_mutex()']]],
   ['recursive_5ftimed_5fmutex_1415',['recursive_timed_mutex',['http://en.cppreference.com/w/cpp/thread/recursive_timed_mutex.html',0,'std::recursive_timed_mutex'],['http://en.cppreference.com/w/cpp/thread/recursive_timed_mutex/recursive_timed_mutex.html',0,'std::recursive_timed_mutex::recursive_timed_mutex()']]],
   ['ref_1416',['ref',['http://en.cppreference.com/w/cpp/utility/functional/ref.html',0,'std']]],
