@@ -46,9 +46,6 @@ var NAVTREEINDEX1 =
 "d3/dce/linkedlist__implentation__usingarray_8cpp.html#aed19b403f559fc5d5a4bce724f9e263c":[8,0,2,5,9],
 "d3/dce/linkedlist__implentation__usingarray_8cpp.html#afcb07da7984e20b3207934696791f5df":[8,0,2,5,5],
 "d3/deb/namespaceshortest__common__supersequence.html":[6,0,20],
-"d3/df9/recursive__bubble__sort_8cpp.html":[8,0,17],
-"d3/df9/recursive__bubble__sort_8cpp.html#a87f6e032dbfd4f7de25780bc43e00a1d":[8,0,17,1],
-"d3/df9/recursive__bubble__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,17,0],
 "d4/d21/least__common__multiple_8cpp.html":[8,0,9,18],
 "d4/d21/least__common__multiple_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[8,0,9,18,3],
 "d4/d21/least__common__multiple_8cpp.html#a8ba1fc66e4134ab25b2602b323150563":[8,0,9,18,0],
@@ -190,8 +187,8 @@ var NAVTREEINDEX1 =
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[5,3,4],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[8,0,15,6,2],
 "d5/d4c/group__sorting.html#gabd9a93f241c5c86f2ec0abf8b66b4145":[8,0,15,4,0],
-"d5/d4c/group__sorting.html#gae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,6,0],
 "d5/d4c/group__sorting.html#gae66f6b31b5ad750f1fe042a706a4e3d4":[5,3,2],
+"d5/d4c/group__sorting.html#gae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,6,0],
 "d5/d5f/namespacegeometry.html":[7,0,3],
 "d5/d5f/namespacegeometry.html":[6,0,7],
 "d5/d67/bayes__theorem_8cpp.html":[8,0,12,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX1 =
 "d5/db0/adaline__learning_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,8,0,1],
 "d5/db0/adaline__learning_8cpp.html#a52053d88ea1bcbbed9aca67ab4eeb499":[8,0,8,0,2],
 "d5/db0/adaline__learning_8cpp.html#a992bdf1fdb0b9d414bcf7981d2d87aa9":[8,0,8,0,4],
-"d5/ddb/bogo__sort_8cpp.html":[8,0,15,0]
+"d5/ddb/bogo__sort_8cpp.html":[8,0,15,0],
+"d5/ddb/bogo__sort_8cpp.html#a4c5bd73ffb6082f63dc57d8dcc76794f":[8,0,15,0,1],
+"d5/ddb/bogo__sort_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,15,0,4],
+"d5/ddb/bogo__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,0,0]
 };

@@ -16,6 +16,5 @@ var files_dup =
     [ "range_queries", "dir_074119ce3a874b57120c49a0cc4bb5ad.html", "dir_074119ce3a874b57120c49a0cc4bb5ad" ],
     [ "search", "dir_19b2bf9199a15c634a08b1ede1dd896a.html", "dir_19b2bf9199a15c634a08b1ede1dd896a" ],
     [ "sorting", "dir_bb1b521853a9c46347182a9d10420771.html", "dir_bb1b521853a9c46347182a9d10420771" ],
-    [ "strings", "dir_73a3cc5065b223eb41b02873c0e19f0e.html", "dir_73a3cc5065b223eb41b02873c0e19f0e" ],
-    [ "recursive_bubble_sort.cpp", "d3/df9/recursive__bubble__sort_8cpp.html", "d3/df9/recursive__bubble__sort_8cpp" ]
+    [ "strings", "dir_73a3cc5065b223eb41b02873c0e19f0e.html", "dir_73a3cc5065b223eb41b02873c0e19f0e" ]
 ];

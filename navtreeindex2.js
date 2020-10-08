@@ -1,8 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/ddb/bogo__sort_8cpp.html#a4c5bd73ffb6082f63dc57d8dcc76794f":[8,0,15,0,1],
-"d5/ddb/bogo__sort_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,15,0,4],
-"d5/ddb/bogo__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,0,0],
 "d5/ddb/bogo__sort_8cpp.html#ae8adaeff66471f9ed84f2e673b38a859":[8,0,15,0,2],
 "d5/ddb/bogo__sort_8cpp.html#aedfb88e2d6fff1871f038221fe5870fe":[8,0,15,0,3],
 "d5/def/stairs__pattern_8cpp.html":[8,0,11,14],
@@ -249,5 +246,8 @@ var NAVTREEINDEX2 =
 "d8/d69/classgraph_1_1_h_k_graph.html#a86ebff8a70cbfedd05281993d5d1987b":[7,0,4,2,12],
 "d8/d69/classgraph_1_1_h_k_graph.html#a976ee239402cc2726a280e781c706d77":[7,0,4,2,13],
 "d8/d69/classgraph_1_1_h_k_graph.html#a9dbda80d02bdc26c3e8ff7330c9be75d":[7,0,4,2,5],
-"d8/d69/classgraph_1_1_h_k_graph.html#ae6d069bd16d6eafa6e08c7e5f735eda6":[7,0,4,2,11]
+"d8/d69/classgraph_1_1_h_k_graph.html#ae6d069bd16d6eafa6e08c7e5f735eda6":[7,0,4,2,11],
+"d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0":[7,0,4,2,4],
+"d8/d69/classgraph_1_1_h_k_graph.html#af02b0c83911070ac6d95fc9905e58aa9":[7,0,4,2,0],
+"d8/d6c/line__segment__intersection_8cpp.html":[8,0,4,1]
 };
