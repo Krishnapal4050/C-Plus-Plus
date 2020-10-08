@@ -3,41 +3,30 @@
  * @brief  Implementation of [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) recursive algorithm.
  * @details 
  * Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, 
- * compares  adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is   *sorted. The algorithm, which is a comparison sort, 
- * is named for the way smaller or larger elements "bubble" to the top of the list
- * 
- * ### Bipartite graph
- * A bipartite graph (or bigraph) is a graph whose vertices can be divided into two disjoint 
- * and independent sets U and V such that every edge connects a vertex in U to one in V. 
- * Vertex sets U and V are usually called the parts of the graph. 
- * Equivalently, a bipartite graph is a graph that does not contain any odd-length cycles.
- * 
- * ### Matching and Not-Matching edges
- * Given a matching M, edges that are part of matching are called Matching edges and edges that are not part 
- * of M (or connect free nodes) are called Not-Matching edges.
- * 
- * ### Maximum cardinality matching
- * Given a bipartite graphs G = ( V = ( X , Y ) , E ) whose partition has the parts X and Y, 
- * with E denoting the edges of the graph, the goal is to find a matching with as many edges as possible. 
- * Equivalently, a matching that covers as many vertices as possible.
- * 
- * ### Augmenting paths
- * Given a matching M, an augmenting path is an alternating path that starts from and ends on free vertices. 
- * All single edge paths that start and end with free vertices are augmenting paths.
+ * compares  adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is   
+ * sorted. The algorithm, which is a comparison sort, is named for the way smaller or larger elements "bubble" to the top of the list.
  * 
  * 
+ * ### Bubble sort
+ * Bubble sort is a simple sorting algorithm. 
+ * This sorting algorithm is comparison-based algorithm in which each pair of adjacent elements is compared and the elements are swapped if they are not in order. 
+ * This algorithm is not suitable for large data sets as its average and worst case complexity are of Ο(n^2) where n is the number of items.
+ * 
+ * ### Recursive approach
+ * Bubble sort compares adjacent pairs and swaps them if they are in the wrong order. 
+ * In this type of bubble sort, we use the recursive function that calls itself.
+ * Use of recursive (self-calling) function compares adjacent pairs and swaps them if they are in the wrong order until the array is in order.
+ *
  * ### Concept
- * A matching M is not maximum if there exists an augmenting path. It is also true other way,
- * i.e, a matching is maximum if no augmenting path exists.
+ * Recursive Bubble Sort has no performance/implementation advantages, but can be a good question to check one’s understanding of Bubble Sort and recursion.
+ * If we take a closer look at Bubble Sort algorithm, we can notice that in first pass, we move largest element to end (Assuming sorting in increasing order). 
+ * In second pass, we move second largest element to second last position and so on.
  * 
  * 
  * ### Algorithm
- * 1) Initialize the Maximal Matching M as empty.
- * 2) While there exists an Augmenting Path P
- *   Remove matching edges of P from M and add not-matching edges of P to M
- *   (This increases size of M by 1 as P starts and ends with a free vertex
- *   i.e. a node that is not part of matching.)
- * 3) Return M. 
+ * 1) Base Case: If array size is 1, return.
+ * 2) Do One Pass of normal Bubble Sort. This pass fixes last element of current subarray.
+ * 3) Recur for all elements except last of current subarray.
  * 
  * 
  *
