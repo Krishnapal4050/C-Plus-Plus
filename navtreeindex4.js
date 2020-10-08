@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"da/d9a/palindrome__of__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,7,0],
 "da/dd1/structquadratic__probing_1_1_entry.html":[7,0,7,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[7,0,7,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[7,0,7,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "dd/d4f/class_solution.html#ae8ca86dfb0d034665027aa99af3c88c6":[7,0,35,6],
 "dd/d4f/class_solution.html#af1fcd3d8160363baa35a079244eb2e91":[7,0,35,5],
 "dd/d65/lu__decompose_8cpp.html":[8,0,10,6],
-"dd/d65/lu__decompose_8cpp.html#a0283886819c7c140a023582b7269e2d0":[8,0,10,6,3],
-"dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,6,2]
+"dd/d65/lu__decompose_8cpp.html#a0283886819c7c140a023582b7269e2d0":[8,0,10,6,3]
 };

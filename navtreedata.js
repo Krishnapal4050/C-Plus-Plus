@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md46", null ],
-      [ "Features", "index.html#autotoc_md47", null ],
-      [ "Documentation", "index.html#autotoc_md48", null ],
-      [ "Contributions", "index.html#autotoc_md49", null ]
+      [ "Overview", "index.html#autotoc_md47", null ],
+      [ "Features", "index.html#autotoc_md48", null ],
+      [ "Documentation", "index.html#autotoc_md49", null ],
+      [ "Contributions", "index.html#autotoc_md50", null ]
     ] ],
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md4", null ],
@@ -66,9 +66,10 @@ var NAVTREE =
       [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md31", null ],
       [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32", null ],
       [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md33", null ],
-      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md34", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md35", null ],
-      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md36", null ]
+      [ "<a href=\"https://github.com/TheAlgorithms/C-Plus-Plus/blob/master//recursive_bubble_sort.cpp\">Recursive Bubble Sort</a>", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md34", null ],
+      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md35", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md36", null ],
+      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md37", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
@@ -110,10 +111,10 @@ var NAVTREEINDEX =
 [
 "",
 "d3/d26/binary__search__tree_8cpp.html#adb338121baec7856c9593d79ddeb5e18",
-"d5/db0/adaline__learning_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627",
-"d8/d69/classgraph_1_1_h_k_graph.html#a86ebff8a70cbfedd05281993d5d1987b",
-"da/dd1/structquadratic__probing_1_1_entry.html",
-"dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"
+"d5/db0/adaline__learning_8cpp.html#a379f7488a305f2571f2932b319931f82",
+"d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93",
+"da/d9a/palindrome__of__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
