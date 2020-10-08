@@ -1,5 +1,8 @@
 var NAVTREEINDEX4 =
 {
+"da/dd1/structquadratic__probing_1_1_entry.html":[7,0,7,0],
+"da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[7,0,7,0,1],
+"da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[7,0,7,0,0],
 "da/dd3/namespacespirograph.html":[6,0,22],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[8,0,11,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[8,0,11,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX4 =
 "dd/d4f/class_solution.html#af1fcd3d8160363baa35a079244eb2e91":[7,0,35,5],
 "dd/d65/lu__decompose_8cpp.html":[8,0,10,6],
 "dd/d65/lu__decompose_8cpp.html#a0283886819c7c140a023582b7269e2d0":[8,0,10,6,3],
-"dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,6,2],
-"dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,6,0],
-"dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[8,0,10,6,1],
-"dd/d69/namespacerange__queries.html":[6,0,19]
+"dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,6,2]
 };

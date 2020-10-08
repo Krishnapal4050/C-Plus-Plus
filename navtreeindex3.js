@@ -50,6 +50,9 @@ var NAVTREEINDEX3 =
 "d8/dab/classstatistics_1_1stats__computer2.html#ade6de704deea24fdc88077b3d9a0d534":[7,0,9,1,1],
 "d8/dab/classstatistics_1_1stats__computer2.html#ae1bfd81bd7bbbd4b0d51d7d956e532d2":[7,0,9,1,8],
 "d8/dab/classstatistics_1_1stats__computer2.html#af6198817084276113b3c064e87ce0555":[7,0,9,1,3],
+"d8/db9/sorting_2recursive__bubble__sort_8cpp.html":[8,0,15,10],
+"d8/db9/sorting_2recursive__bubble__sort_8cpp.html#a87f6e032dbfd4f7de25780bc43e00a1d":[8,0,15,10,1],
+"d8/db9/sorting_2recursive__bubble__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,10,0],
 "d8/dc8/struct_point.html":[7,0,29],
 "d8/dc8/struct_point.html#a2e1b5fb2b2a83571f5c0bc0f66a73cf7":[7,0,29,3],
 "d8/dc8/struct_point.html#a8c779e11e694b20e0946105a9f5de842":[7,0,29,1],
@@ -130,8 +133,8 @@ var NAVTREEINDEX3 =
 "d9/d66/group__machine__learning.html#ga525335710b53cb064ca56b936120431e":[8,0,8,2,0],
 "d9/d66/group__machine__learning.html#ga6c606bc85a3e9fd9d010f874ad760336":[5,1,6],
 "d9/d66/group__machine__learning.html#ga6c606bc85a3e9fd9d010f874ad760336":[8,0,8,1,6],
-"d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[8,0,8,2,5],
 "d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[5,1,7],
+"d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[8,0,8,2,5],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[5,1,5],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[8,0,8,1,3],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[5,1,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX3 =
 "da/d9a/class_graph.html#af3ff6b295df8bf3bee0bafd7c7d56915":[7,0,18,1],
 "da/d9a/class_graph.html#af765dda8f21280e1cecea19e129f1bc5":[7,0,18,11],
 "da/d9a/palindrome__of__number_8cpp.html":[8,0,11,7],
-"da/d9a/palindrome__of__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,7,0],
-"da/dd1/structquadratic__probing_1_1_entry.html":[7,0,7,0],
-"da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[7,0,7,0,1],
-"da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[7,0,7,0,0]
+"da/d9a/palindrome__of__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,7,0]
 };

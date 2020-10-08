@@ -112,8 +112,8 @@ var NAVTREEINDEX =
 "d3/d26/binary__search__tree_8cpp.html#adb338121baec7856c9593d79ddeb5e18",
 "d5/db0/adaline__learning_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627",
 "d8/d69/classgraph_1_1_h_k_graph.html#a86ebff8a70cbfedd05281993d5d1987b",
-"da/dd3/namespacespirograph.html",
-"dd/d69/namespacerange__queries.html"
+"da/dd1/structquadratic__probing_1_1_entry.html",
+"dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

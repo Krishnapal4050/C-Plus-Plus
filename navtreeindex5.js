@@ -1,6 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,6,0],
+"dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[8,0,10,6,1],
 "dd/d69/namespacerange__queries.html":[7,0,8],
+"dd/d69/namespacerange__queries.html":[6,0,19],
 "dd/d81/namespacecaesar.html":[6,0,2],
 "dd/d91/class_fenwick_tree.html":[7,0,17],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[7,0,17,4],
@@ -168,8 +171,8 @@ var NAVTREEINDEX5 =
 "functions_x.html":[7,3,0,23],
 "functions_y.html":[7,3,0,24],
 "functions_~.html":[7,3,0,25],
-"globals.html":[8,1,0],
 "globals.html":[8,1,0,0],
+"globals.html":[8,1,0],
 "globals_a.html":[8,1,0,1],
 "globals_b.html":[8,1,0,2],
 "globals_c.html":[8,1,0,3],
