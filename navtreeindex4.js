@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"da/df2/durand__kerner__roots_8cpp.html#a212979f5fc9dcf0a420e90b9b21d780a":[8,0,10,2,1],
 "da/df2/durand__kerner__roots_8cpp.html#a3bada3e58ad8d1b00918db2ffe83a740":[8,0,10,2,3],
 "da/df2/durand__kerner__roots_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,2,5],
 "da/df2/durand__kerner__roots_8cpp.html#a51637ff89e55ca749993d3e84b95d153":[8,0,10,2,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[7,0,17,4],
 "dd/d91/class_fenwick_tree.html#a2e9ea4fcbe0786487f4535c1cfc7aa00":[7,0,17,5],
 "dd/d91/class_fenwick_tree.html#a4816596da965b5f0871d77b5a1985aa1":[7,0,17,7],
-"dd/d91/class_fenwick_tree.html#a70f8c261393ca09ec1ad716ac806ead6":[7,0,17,1]
+"dd/d91/class_fenwick_tree.html#a70f8c261393ca09ec1ad716ac806ead6":[7,0,17,1],
+"dd/d91/class_fenwick_tree.html#aa8ecebf6f4ad9faaf4b826668d9409bb":[7,0,17,6]
 };

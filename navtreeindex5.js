@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"dd/d91/class_fenwick_tree.html#aa8ecebf6f4ad9faaf4b826668d9409bb":[7,0,17,6],
 "dd/d91/class_fenwick_tree.html#aaae15ea71455315e257baa11017cec10":[7,0,17,2],
 "dd/d91/class_fenwick_tree.html#aaddab1f03d4941212a82cc647b1adb17":[7,0,17,0],
 "dd/d91/class_fenwick_tree.html#ade1d6a3d49af9d9df33e2fb26cab1699":[7,0,17,3],
@@ -89,8 +88,8 @@ var NAVTREEINDEX5 =
 "df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[8,0,10,15,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,15,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[8,0,10,15,1],
-"df/dce/namespacegraph.html":[7,0,4],
 "df/dce/namespacegraph.html":[6,0,8],
+"df/dce/namespacegraph.html":[7,0,4],
 "df/dd0/queue__using__two__stacks_8cpp.html":[8,0,2,8],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[8,0,2,8,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,8,0],
@@ -211,19 +210,19 @@ var NAVTREEINDEX5 =
 "hierarchy.html":[7,2],
 "index.html":[0],
 "index.html":[],
-"index.html#autotoc_md47":[0,0],
-"index.html#autotoc_md48":[0,1],
-"index.html#autotoc_md49":[0,2],
-"index.html#autotoc_md50":[0,3],
+"index.html#autotoc_md46":[0,0],
+"index.html#autotoc_md47":[0,1],
+"index.html#autotoc_md48":[0,2],
+"index.html#autotoc_md49":[0,3],
 "modules.html":[5],
 "namespacemembers.html":[6,1,0],
 "namespacemembers_func.html":[6,1,1],
 "namespacemembers_vars.html":[6,1,2],
 "namespaces.html":[6,0],
 "pages.html":[],
-"":[7,0,3,0],
 "":[7,0,4,0],
 "":[7,0,6,0],
+"":[7,0,8,0],
 "":[7,0,6,0,0],
-"":[7,0,8,0]
+"":[7,0,3,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/ddb/bogo__sort_8cpp.html#ae8adaeff66471f9ed84f2e673b38a859":[8,0,15,0,2],
 "d5/ddb/bogo__sort_8cpp.html#aedfb88e2d6fff1871f038221fe5870fe":[8,0,15,0,3],
 "d5/def/stairs__pattern_8cpp.html":[8,0,11,14],
 "d5/def/stairs__pattern_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,14,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "d8/d69/classgraph_1_1_h_k_graph.html#ae6d069bd16d6eafa6e08c7e5f735eda6":[7,0,4,2,11],
 "d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0":[7,0,4,2,4],
 "d8/d69/classgraph_1_1_h_k_graph.html#af02b0c83911070ac6d95fc9905e58aa9":[7,0,4,2,0],
-"d8/d6c/line__segment__intersection_8cpp.html":[8,0,4,1]
+"d8/d6c/line__segment__intersection_8cpp.html":[8,0,4,1],
+"d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,4,1,2]
 };

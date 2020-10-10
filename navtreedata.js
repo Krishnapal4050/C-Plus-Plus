@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md47", null ],
-      [ "Features", "index.html#autotoc_md48", null ],
-      [ "Documentation", "index.html#autotoc_md49", null ],
-      [ "Contributions", "index.html#autotoc_md50", null ]
+      [ "Overview", "index.html#autotoc_md46", null ],
+      [ "Features", "index.html#autotoc_md47", null ],
+      [ "Documentation", "index.html#autotoc_md48", null ],
+      [ "Contributions", "index.html#autotoc_md49", null ]
     ] ],
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md4", null ],
@@ -66,10 +66,9 @@ var NAVTREE =
       [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md31", null ],
       [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32", null ],
       [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md33", null ],
-      [ "<a href=\"https://github.com/TheAlgorithms/C-Plus-Plus/blob/master//recursive_bubble_sort.cpp\">Recursive Bubble Sort</a>", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md34", null ],
-      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md35", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md36", null ],
-      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md37", null ]
+      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md34", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md35", null ],
+      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md36", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
@@ -111,10 +110,10 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d3/d40/graph__coloring_8cpp.html#a5a6c3c2b065ea1c07adf2f638f8efc43",
-"d5/ddb/bogo__sort_8cpp.html#ae8adaeff66471f9ed84f2e673b38a859",
-"d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"da/df2/durand__kerner__roots_8cpp.html#a212979f5fc9dcf0a420e90b9b21d780a",
-"dd/d91/class_fenwick_tree.html#aa8ecebf6f4ad9faaf4b826668d9409bb"
+"d5/ddb/bogo__sort_8cpp.html#aedfb88e2d6fff1871f038221fe5870fe",
+"d8/d77/namespacemachine__learning.html",
+"da/df2/durand__kerner__roots_8cpp.html#a3bada3e58ad8d1b00918db2ffe83a740",
+"dd/d91/class_fenwick_tree.html#aaae15ea71455315e257baa11017cec10"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
